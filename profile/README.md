@@ -1,4 +1,4 @@
-# 🏪 Welcome to KiranaPro
+# 🏪 KiranaPro
 
 KiranaPro is revolutionizing local commerce in India by bridging the gap between traditional Kirana stores and modern consumer expectations. Our platform enables ultra-fast deliveries—typically within 10-20 minutes—while preserving the authentic charm of local retail.
 
